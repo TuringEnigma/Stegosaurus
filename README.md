@@ -1,4 +1,10 @@
 # LSB Image Steganography Tool
+
+
+Notes: addeed easy to use drag and drop shell scripts, so you can drag and drop the files you want into terminal, the hide.sh script will prompt for the show script after its done. show script
+will export doecuments to a temp folder for added security and prompts the user to the delete them when process is finished. 
+
+
 A small tool to perform password-based LSB image steganography
 
 <p>
