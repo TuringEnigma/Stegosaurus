@@ -1,6 +1,6 @@
 # LSB Image Steganography Tool
 
-Enhanced with intuitive drag-and-drop functionality, the updated system now incorporates user-friendly shell scripts. Simply drag and drop your desired files into the terminal interface. Following execution, the 'hide.sh' script will seamlessly prompt for the 'show' script at the end of the first process, ensuring a streamlined workflow. The 'show' script functions to export documents to a temporary directory, heightening security measures, and subsequently deletes these files once user has pressed "y" at the end of the process. This is an added security layer. added cool ASCII art from previous project. might make a dinosaur one later idk
+Enhanced with intuitive drag-and-drop functionality, run ./hide.sh first (remember to chmod) the updated system now incorporates user-friendly shell scripts. Simply drag and drop your desired files into the terminal interface. Following execution, the 'hide.sh' script will seamlessly prompt for the 'show.sh' script at the end of the first process, ensuring a streamlined workflow. The 'show' script functions to export documents to a temporary directory, heightening security measures, and subsequently deletes these files once user has pressed "y" at the end of the process. This is an added security layer. added cool ASCII art from previous project. might make a dinosaur one later idk
 
 
 A small tool to perform password-based LSB image steganography
